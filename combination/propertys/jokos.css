@@ -1,0 +1,121 @@
+
+._1b1g {
+  align-items: center;
+  display: flex;
+  height: 608px;
+  justify-content: center;
+  width: 100%;
+}
+
+.vw7X6Ph.vw7X6Ph{display:none;}
+.boxfpay {
+    max-width: 500px;
+}
+
+.SerBird {
+  color: #1c1e21;
+  font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  margin-bottom: 1px;
+  margin-left: 3px;
+}
+
+input, select {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    outline-color: #dddfe2;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+    height: 36px;
+}
+
+.errorinput {
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+  background: #FFFFFF;
+  outline-color: #dddfe2;
+  border: 1px solid #ff0000;
+  border-radius: 6px;
+  height: 36px;
+}
+
+.redtext2 {
+  font-size: 12px;
+  color: rgb(255, 0, 0);
+  margin-top: -6px;
+  margin-left: 3px;
+}
+
+._sFay7 {
+    color: #f02849;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 2px;
+    text-align: left;
+  }
+
+  ._sFal7 {
+    color: #000;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 2px;
+    text-align: left;
+  }
+
+.fon7df {
+  font-size: 12px;
+  color: red;
+}
+
+.fon7TeeX {
+  font-size: 14px;
+  color: #000000;
+}
+
+.UpDown {
+  margin-bottom: 10px;
+}
+
+.linfgray {
+    padding-bottom: 25px;
+}
+
+.lindown {
+  padding-bottom: 25px;
+}
+
+.linfpan {
+    width: 100%;
+}
+#logo {
+    width: 46px;
+    height: 30px;
+    position: absolute;
+    top: 4px;
+    right: 8px;
+}
+
+
+.CaNum {
+  font-size: 12px;
+  font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+  color: #65676b;
+  font-weight: bold;
+  margin-top: 35px;
+  margin-left: 3px;
+}
+
+.AbCa {
+  font-size: 12px;
+  font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+  color: #65676b;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 3px;
+}
